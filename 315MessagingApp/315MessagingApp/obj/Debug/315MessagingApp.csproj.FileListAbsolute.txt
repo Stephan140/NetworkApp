@@ -1,0 +1,12 @@
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\bin\Debug\315MessagingApp.exe.config
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\bin\Debug\315MessagingApp.exe
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\bin\Debug\315MessagingApp.pdb
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\obj\Debug\315MessagingApp.csproj.AssemblyReference.cache
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\obj\Debug\_315MessagingApp.Form1.resources
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\obj\Debug\_315MessagingApp.Properties.Resources.resources
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\obj\Debug\315MessagingApp.csproj.GenerateResource.cache
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\obj\Debug\315MessagingApp.csproj.CoreCompileInputs.cache
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\obj\Debug\315MessagingApp.exe
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\obj\Debug\315MessagingApp.pdb
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\obj\Debug\_315MessagingApp.NewContactForm.resources
+C:\Users\Maste\source\repos\315MessagingApp\315MessagingApp\obj\Debug\_315MessagingApp.NewGroupForm.resources
